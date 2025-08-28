@@ -1,20 +1,20 @@
-# 💘 Flirty Bertie
+# Flirty Bertie
 
 Flirty Bertie is a playful, emoji-loving chatbot powered by [Groq’s LLaMA 3 API](https://console.groq.com). 
 
 
 
-## ✨ Features
+## Features
 
-- 😏 Witty, respectful flirty persona
-- 🎲 Randomized greetings and emoji reactions
-- 🌹 Easter eggs for special prompts (`compliment`, `rose`)
-- 🧠 Chat context awareness via `messages` memory
-- 🐍 Written in Python with `.env` support for secure API keys
+- Witty, respectful flirty persona
+- Randomized greetings and emoji reactions
+- Easter eggs for special prompts (`compliment`, `rose`)
+- Chat context awareness via `messages` memory
+- Written in Python with `.env` support for secure API keys
 
 
 
-## 🚀 Usage
+## Usage
 
 ### 1. Clone the repo
 
@@ -42,7 +42,7 @@ python main.py
 ```
 
 
-## 💡 Easter Eggs
+## Easter Eggs
 
 * Type `compliment` for some Bertie-approved praise.
 * Type `rose` to get a 🌹 just for you.
@@ -50,14 +50,14 @@ python main.py
 
 
 
-## 🧠 Model Info
+## Model Info
 
 * **Model**: `llama3-8b-8192` via Groq API
 * **Framework**: Python (CLI)
 * **Hosting**: Local (no server required)
 
 
-## 🌌 Future Ideas
+## Future Ideas
 
 * Add voice support (Text-to-Speech)
 * Deploy as a web app
